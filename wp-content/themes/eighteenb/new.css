@@ -1,0 +1,8 @@
+.filters {
+  font-family: "Styrene A Web"; }
+  @media (min-width: 576px) {
+    .filters li {
+      font-size: 10px !important; } }
+  @media (min-width: 768px) {
+    .filters li {
+      font-size: 13px !important; } }
